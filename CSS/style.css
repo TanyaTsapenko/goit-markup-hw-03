@@ -1,0 +1,277 @@
+.header{
+    background-color:rgba(255, 255, 255, 1) ;
+}
+
+.font{
+    font-family:  'Roboto', sans-serif; 
+}
+.text{
+    font-family:'Raleway', sans-serif; 
+    color:rgba(33, 33, 33, 1) ;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-decoration: none;}
+
+    
+    .webtext{
+        color:rgba(33, 150, 243, 1) ;
+    }
+
+a.menu-link{
+    color: rgba(33, 33, 33, 1);
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;}
+
+   .menu-link:hover, .menu-link:focus, .menu-link:active{color:rgba(33, 150, 243, 1) ;}
+ .menu-link.current{color:rgba(33, 150, 243, 1);
+    
+    font-size: 14px;
+    text-decoration: none;}
+
+.email{
+    color: rgba(117, 117, 117, 1);
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+}
+.email:hover {color:rgba(33, 150, 243, 1) ;}
+
+.phone{
+    color: rgba(117, 117, 117, 1);
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+}
+.phone:hover {color:rgba(33, 150, 243, 1) ;}
+
+
+.bottons{
+    color:rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.06em; 
+    font-style: normal;
+    background-color: rgba(33, 150, 243, 1);
+    text-decoration: none;
+}
+
+.titlemain{
+    color: rgba(255, 255, 255, 1);
+    font-weight: 900;
+    font-style: normal;
+    font-size: 44px;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    align-items: center;}
+
+.section{
+    background-color:rgba(47, 48, 58, 1) ;
+}
+
+
+.box{
+    color:rgba(33, 33, 33, 1) ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.p1{
+color: rgba(117, 117, 117, 1);
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+}
+
+    .tittleimg{
+color: rgba(33, 33, 33, 1);
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42.19px;
+letter-spacing: 0.03em;
+align-items: center;
+}
+
+.comand{
+    background-color:rgba(245, 244, 250, 1) ;
+}
+
+.textcomand{ 
+    color: rgba(33, 33, 33, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 42.19px;
+    letter-spacing: 0.03em;
+    align-items: center;
+
+}
+
+.human{
+    color: rgba(33, 33, 33, 1);
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 0.03em;
+    align-items: center;
+}
+.profession{
+    color:rgba(117, 117, 117, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 0.03em;
+    align-items: center;
+}
+
+.footer{
+    background-color: rgba(47, 48, 58, 1);
+}
+
+.textfooter{
+    font-family:'Raleway', sans-serif; 
+    color: white;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+}
+
+    .adress{
+        color: white;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.03em;
+    }
+
+    .email2{ 
+        color:rgba(255, 255, 255, 0.6);
+        font-weight: 400;
+        font-style: normal;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.03em;  
+        text-decoration: none;
+    }
+    .email2:hover {color:rgba(33, 150, 243, 1) ;}
+
+    .phone2{
+     
+        color:rgba(255, 255, 255, 0.6);
+        font-weight: 400;
+        font-style: normal;
+        font-size: 14px;
+        line-height: 24px;
+        letter-spacing: 0.03em;  
+        text-decoration: none;
+    }
+    .phone2:hover{color:rgba(33, 150, 243, 1) ;}
+
+
+
+
+
+
+    .btn{
+        font-family: 'Roboto', sans-serif; 
+        color: rgba(33, 33, 33, 1);
+        background-color: rgba(245, 244, 250, 1);
+        font-weight: 500;
+        font-style: normal;
+        font-size: 16px;
+        line-height: 26px;
+        letter-spacing: 0.03em; 
+        align-items: center; 
+    }
+    .btn:hover, .btn:focus {background-color:rgba(33, 150, 243, 1) ;
+        color:rgba(255, 255, 255, 1);}
+    
+
+
+
+    .work{
+        
+        color: rgba(33, 33, 33, 1);
+        font-weight: 700;
+        font-style: normal;
+        font-size: 18px;
+        line-height: 36px;
+        letter-spacing: 0.06em; 
+        text-decoration: none;
+    }
+    .work:hover, .work:focus {color:rgba(33, 150, 243, 1);}
+    .web{
+         
+        color: rgba(117, 117, 117, 1);
+        font-weight: 400;
+        font-style: normal;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: 0.03em; 
+    
+        
+    }
+    li{
+        list-style-type: none;
+        
+    }
+    .a{display: block;}
+    .classa{ text-decoration: none;}
+
+    .visually-hidden{
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+        border: 0;
+        padding: 0;
+        clip: rect(0 0 0 0);
+        overflow: hidden;}
+
+
+
+
+        :root{
+
+            --black-text:rgba(33, 33, 33, 1);
+            --blue-text: rgba(33, 150, 243, 1);
+            --gray-text:rgba(117, 117, 117, 1);
+            --white-text: rgba(255, 255, 255, 1);
+            
+            --transparent-text06:rgba(255, 255, 255, 0.6);
+            
+            --header: rgba(255, 255, 255, 1);
+            --footer: rgba(47, 48, 58, 1);
+            
+            --booton: rgba(245, 244, 250, 1);
+            
+            --background: rgba(47, 48, 58, 1);
+            
+            
+            }
