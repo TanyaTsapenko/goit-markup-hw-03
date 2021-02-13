@@ -26,9 +26,40 @@
 .header{
     background-color:rgba(255, 255, 255, 1) ;
 }
+    background-color:rgba(255, 255, 255, 1) ;}
 
 .font{
     font-family:  'Roboto', sans-serif; 
+}
+
+
+/*CCЫЛКИ ДЛЯ КЛАССА КОНТЕЙНЕР*/
+
+.container{
+    width: 1200px;
+    padding: 0 15px;
+    border: 1px solid red;
+    position: relative;
+}
+
+
+
+/*ШАПКА*/
+
+.header-nav, .nav-list, .contacts-list{
+display: flex;
+}
+.header-nav{
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 24px;
+    padding-bottom: 25px;
+}
+.nav-list li{
+    margin-left: 50px;
+}
+.contacts-list li:last-child{
+    margin-left: 50px;
 }
 .text{
     font-family:'Raleway', sans-serif; 
