@@ -79,7 +79,7 @@ padding: 0px;
 .contacts-list li:last-child{
     margin-left: 50px;
 }
-.nav{border-bottom: 1px solid rgba(236, 236, 236, 1);}
+.header{border-bottom: 1px solid rgba(236, 236, 236, 1);}
 
 
 .text{
@@ -342,10 +342,11 @@ align-items: center;
  .footer{
      width: 1600px;
      height: 252px;
-    margin: 0px;
-
-     
+     margin: auto;
+    
  }
+
+
  .textfooter{
      margin: 0 auto;
      
