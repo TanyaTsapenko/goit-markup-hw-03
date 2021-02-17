@@ -133,12 +133,10 @@ a.menu-link{
 
 /*HERO*/
 
-
-
-    .section .container{
+    .section {
     background-color:rgba(47, 48, 58, 1) ;
     height: 600px;
-    width: 1600px;
+   
 }
 .titlemain{
     text-align: center;
@@ -343,6 +341,7 @@ align-items: center;
      width: 1200px;
      height: 252px;
      margin: auto;
+     
     
  }
 
@@ -373,7 +372,7 @@ align-items: center;
  
 footer{
     background-color: rgba(47, 48, 58, 1);
-    
+    padding-bottom: 60px;
 }
 
 .textfooter{
