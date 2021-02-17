@@ -340,7 +340,7 @@ align-items: center;
  /*FOOTER*/
 
  .footer{
-     width: 1600px;
+     width: 1200px;
      height: 252px;
      margin: auto;
     
@@ -371,8 +371,9 @@ align-items: center;
  }
  
  
-.footer{
+footer{
     background-color: rgba(47, 48, 58, 1);
+    
 }
 
 .textfooter{
