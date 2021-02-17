@@ -58,7 +58,7 @@ display: flex;
     
 }
 .nav-list a{
-    margin: 0px;
+
     padding-top: 32px;
     padding-bottom: 32px;
     
@@ -263,6 +263,10 @@ a.menu-link{
         padding-bottom: 124px;
     
         margin: 0 auto;
+    }
+
+    .proff{
+        padding: 30px 30px;
     }
 
     .item{
