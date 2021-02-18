@@ -145,13 +145,13 @@ a.menu-link{
 
     .section {
     background-color:rgba(47, 48, 58, 1) ;
-    height: 600px;
+    min-height: 600px;
+    padding-top: 200px;
    
 }
 .titlemain{
     text-align: center;
     margin: 0 auto;
-    padding-top: 200px;
 }
 .bottons_hero{
     display: block;
@@ -165,16 +165,27 @@ a.menu-link{
 
 .boxes{
     display: flex;
-    padding-top: 94px;
-    padding-bottom: 94px;
     padding-left: 0px;
     list-style:none;
     margin: 0px;
 
 }
+.section-box{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+.section-work{
+    padding-bottom: 94px;
+}
+.comand-box{
+    padding-top: 94px;
+    
+}
+
+
+
 .boxes li{
     width: 270px;
-    height: 101px;
 
 }
 .boxes li:not(:last-child){
@@ -183,14 +194,14 @@ a.menu-link{
 
     .tittleimg{
         text-align: center;
-        padding-bottom: 50px;
+        margin-bottom: 50px;
         margin: 0 auto;
-        display: block;
+        margin-bottom: 50px;
+    
     }
 
     .workphotos {
         display: flex;
-        padding-bottom: 94px;
         padding-left: 0px;
         padding-right: 0px;
         margin: 0px;
@@ -229,13 +240,18 @@ a.menu-link{
 
 
 
-
+.box{margin-top: 0px;
+margin-bottom: 0px;}
+ .p1 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
 
     .textcomand{
         text-align: center;
-        padding-top: 94px;
-        padding-bottom: 50px;
+        margin-bottom: 50px;
         margin: 0 auto;
+        margin-bottom: 50px;
     }
 
     
@@ -315,7 +331,7 @@ letter-spacing: 0.03em;
 align-items: center;
 }
 
-.comand{
+.comand-box{
     background-color:rgba(245, 244, 250, 1) ;
 }
 
@@ -409,29 +425,29 @@ footer{
 .btns-list{
     display: flex;
     justify-content: center;
-    padding-bottom: 56px;
-    padding-top: 94px;
     margin: 0px;
+    padding-left: 0px;
 
 }
     .btns-list .btn{
-        margin-right: 8px;
         border-radius: 4px;
         border: none;
      padding: 6px 22px;
     }
-    .btn:last-child{
-        margin-right: 0px;
+    .buttonss{
+        margin-right: 8px;
     }
-
+.buttonss:last-child{
+    margin-right: 0px;
+}
 
 .flex-container{
     display: flex;
     flex-wrap: wrap;
 padding-left: 0px;
 padding-right: 0px;
-padding-bottom: 94px;
-margin: 0px auto;
+margin-top: 50px;
+margin-bottom: 0px;
 
 }
 
