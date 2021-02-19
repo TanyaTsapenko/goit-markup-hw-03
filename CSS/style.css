@@ -146,12 +146,14 @@ a.menu-link{
     .section {
     background-color:rgba(47, 48, 58, 1) ;
     min-height: 600px;
-    padding-top: 200px;
+   
    
 }
 .titlemain{
     text-align: center;
     margin: 0 auto;
+    padding-top: 200px;
+    
 }
 .bottons_hero{
     display: block;
