@@ -278,8 +278,8 @@ margin-bottom: 0px;}
          0px 1px 3px 0px rgba(0, 0, 0, 0.12);
     border-radius: 3px;
     max-width: 270px;
-
-        margin-bottom: 94px;
+background-color: rgba(255, 255, 255, 1);
+;
        
     }
     .comand li:not(:last-child){
@@ -300,10 +300,10 @@ margin-bottom: 0px;}
         border: 1px solid rgba(238, 238, 238, 1);
     }
     .work{
-        padding-left: 24px;
+        margin: 0px;
     }
     .web{
-    padding-left: 24px;
+    margin: 0px;
     }
     
 
@@ -378,10 +378,13 @@ align-items: center;
 
      
  }
+ address{
+     margin-top: 20px;
+ }
  .adress{
      margin: 0 auto;
      margin-bottom: 9px;
-     margin-top: 20px;
+     
  }
  .email{
      margin: 0 auto;
@@ -393,7 +396,7 @@ align-items: center;
      
  }
  .logo{
-     padding-bottom: 20px;
+     
  }
  
  
@@ -452,7 +455,12 @@ margin-top: 50px;
 margin-bottom: 0px;
 
 }
-
+.tex{
+    padding-top: 20px;
+    padding-right: 24px;
+    padding-bottom: 20px;
+    padding-left: 24px;
+}
 
 .flex-container li{
     width: 370px;
