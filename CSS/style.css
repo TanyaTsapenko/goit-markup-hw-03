@@ -301,6 +301,7 @@ background-color: rgba(255, 255, 255, 1);
     }
     .work{
         margin: 0px;
+        margin-bottom:4px ;
     }
     .web{
     margin: 0px;
@@ -510,7 +511,7 @@ margin-bottom: 0px;
         letter-spacing: 0.06em; 
         text-decoration: none;
     }
-    .work:hover, .work:focus {color:rgba(33, 150, 243, 1);}
+    
     .web{
          
         color: rgba(117, 117, 117, 1);
